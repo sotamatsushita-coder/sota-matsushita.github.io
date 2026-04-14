@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Your Name"
+    "name": "Sota Matsushita"
   },
   "nav": {
     "bio": "About",
@@ -10,17 +10,17 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
+    "name": "Sota Matsushita",
+    "nameJp": "松下颯太",
     "phd": "",
-    "phdJp": "博士（工学）",
-    "position": "Postdoctoral Researcher",
-    "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
-    "github": "https://github.com/yourusername",
+    "phdJp": "",
+    "position": "Undergraduate Student",
+    "affiliation": "Department of Engineering, The University of Tokyo",
+    "github": "https://github.com/sota-matsushita",
     "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
+    "orcid": "",
+    "researchmap": "",
+    "linkedin": "",
     "researchInterests": "Research Interests",
     "researchTags": [
       "Mathematics",
@@ -61,7 +61,7 @@
     "location": "Location",
     "relatedLinks": "Related Links",
     "email": "Email",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "matsushita[at]sigma.t.u-tokyo.ac.jp",
     "phone": "Phone",
     "phoneNumber": "+81-3-5841-7689",
     "address": "Address",
